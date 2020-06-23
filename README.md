@@ -1,7 +1,18 @@
 # AAST-CPC-ASWAN
 
+</br>
+</br>
+</br>
+</br>
+</br>
+
+
 ## Main Topics
-any topic in **bold** means that this topic is very important in its' category.
+Any topic in **bold** means that this topic is very important in its' category.
+
+</br>
+</br>
+
 
 ### - Basics -
 - Conditions
