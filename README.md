@@ -110,7 +110,7 @@ Basic Programming بداية من </br>
 
 
 ---------------------------------------------------------------
- ### [Mosta Saad](https://www.youtube.com/user/nobody123497/playlists)
+ ### [Mostafa Saad](https://www.youtube.com/user/nobody123497/playlists)
  
  دى قناة بشمهندس مصطفى سعد عملاق البروبلم سولفنج و من الناس الأوائل ف مصر اللي كانوا بيدخلوا المسابقة  و كان أول دفعة تحت الكوتش عبد الوهاب ... و ميزته ان هو بيركز جدا ع المواضيع اللي بتيجي ف المسابقات دايما عشان هو خبرة و عارف دماغ الناس اللي بتحط المسائل، اللى هيذاكر منها ممكن يبتدى ب بلاى ليست </br>
  [C++ (intensive)](https://www.youtube.com/playlist?list=PLPt2dINI2MIZPFq6HyUB1Uhxdh1UDnZMS) </br>
